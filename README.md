@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberchup
 - 👀 I’m interested in ... technology, cars, woodworking, hiking and cooking.
-- 🌱 I’m currently learning ... cyber security basics to transition from food sales to a cyber security role. 
+- 🌱 I’m currently learning ... Azure, Python, Golang, APIs, and Cloud Security. 
 - 📫 How to reach me ... @cyberchup
 
 <!---
